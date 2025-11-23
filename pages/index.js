@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="min-h-screen w-full bg-[#0a2342] text-white flex flex-col items-center px-4">
+    <main className="min-h-screen w-full bg-[#014DCD] text-white flex flex-col items-center px-4">
       {/* NAME */}
       <h1 className="text-4xl md:text-5xl font-bold mt-10 text-center">
         Grant Mitterlehner
